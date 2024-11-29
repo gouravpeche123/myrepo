@@ -1,3 +1,2 @@
 
-i am from ahmednagar
-maharashtra ,india
+this avd group learning platform where we learn data engineering course
